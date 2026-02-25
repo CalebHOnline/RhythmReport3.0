@@ -1,7 +1,7 @@
 // auth.js — Spotify OAuth 2.0 PKCE flow (no backend needed)
 
 const CLIENT_ID = '45ab5393ba4443249f0266557fbda39c';
-const REDIRECT_URI = 'http://127.0.0.1:8888/callback';
+const REDIRECT_URI = 'https://calebhonline.github.io/RhythmReport3.0/';
 const SCOPES = [
   'user-top-read',
   'user-read-private',
